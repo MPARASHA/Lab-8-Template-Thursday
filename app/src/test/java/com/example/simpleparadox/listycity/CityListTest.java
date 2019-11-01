@@ -97,6 +97,6 @@ class CityListTest {
     @Test
     void Lab8Test(){
         // The test that will fail
-        assertEquals(0,1); // Passes if 0 == 1 i.e contradiction
+        assertEquals(0,1); // Passes if 0 == 1 i.e contradiction (always)
     }
 }
