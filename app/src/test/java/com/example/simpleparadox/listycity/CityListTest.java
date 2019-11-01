@@ -94,6 +94,7 @@ class CityListTest {
         assertEquals(1, cityList.countCities());
     }
 
+
     @Test
     void Lab8Test(){
         // The test that will fail
@@ -102,4 +103,6 @@ class CityListTest {
         //Now the test that always passes
         assertEquals(0,0); // tautology
     }
+
 }
+
